@@ -13,18 +13,6 @@ h1{
     font-family: 'Fruktur', cursive;
 }
 
-/*
-.title{
-    background-image: url(../images/logo-lt.jpg);
-    background-size: cover;
-    height: 450px;
-    width: 750px;
-    margin: auto;
-    background-repeat: no-repeat;
-    border: 10px ridge red;
-}*/
-
-
 h2{
     font-size: 25px;
     padding: 10px;
@@ -92,45 +80,6 @@ a.skip{
     border: 8px inset red;
     text-transform: uppercase;
 }
-
-/*
-img{
-    width: 200px;
-    height: 200px;
-    padding: 5px;
-    margin: 10px 10px;
-    border: 7px inset red;
-    opacity: 100%;
-    border-start-end-radius: 10%;
-    border-end-start-radius: 10%;
-}
-
-.landscape{
-    height: 200px;
-    width: 300px;
-}
-
-
-.vertical{
-    height: 300px;
-    width: 200px;
-}
-
-div{
-    text-align: center;
-}
-
-div img:hover:nth-child(2n){
-    border: 7px outset red;
-    padding: 0%;
-    margin: 10px 5px;
-    opacity: .5;
-    transform: scale(1.075);
-    transition: .3s ease-in-out;
-    border-end-end-radius: 10%;
-    border-start-start-radius: 10%;
-}
-*/
 
 footer p{
     background: red;
